@@ -40,30 +40,13 @@
 
 ---
 
-🚀 *Projects*
-
-- *Real-Time Web Chat App*  
-  Built a full-stack real-time chat app with React, Tailwind CSS, Node.js, and MongoDB providing persistent messaging features.
-
-- *Cartify - Full Stack Sales Hub*  
-  Developed a POS system using React and Spring Boot with secure payment integration, dynamic dashboards, and role-based access.
-
----
 
 🏅 *Work Experience*
 
 - *Web Developer Intern* @ Quamin Tech Solutions LLP (Sep 2024 - Mar 2025)  
   Created farm product retail web app; enhanced UI/UX; handled frontend-backend API integration collaboratively in team.
 
----
-
-🎖 *Extra & Co-curricular*
-
-- Content & Editorial Co-Lead, Cyber Warriors Club  
-- District-level Basketball Tournament Winner  
-- Gold & Silver Medals in Basketball Tournaments  
-- Trained Bharatnatyam dancer (4 years)  
-
+  
 ---
 
 📫 *Get in Touch*
