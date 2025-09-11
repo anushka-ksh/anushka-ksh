@@ -41,10 +41,12 @@
 ---
 
 
-🏅 *Work Experience*
+💻 *FOCUS AREAS*
 
-- *Web Developer Intern* @ Quamin Tech Solutions LLP (Sep 2024 - Mar 2025)  
-  Created farm product retail web app; enhanced UI/UX; handled frontend-backend API integration collaboratively in team.
+- *MERN FULL STACK DEVELOPMENT* - Frontend and backend using React, MongoDB, Express.js, Node.js with Postman for API calling 
+- *Java FULL STACK DEVELOPMENT* - Frontend and backend using React and Spring Boot integrating aws services such as S3 for cloud storage
+- *PROBLEM SOLVING AND PROGRAMMING* - Solving DSA problems in Java
+- *MySQL* - Creating databases and processing queries
 
   
 ---
