@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Anushka Kshirsagar</h1>
-<h3 align="center">Full Stack Developer | Web Enthusiast | Team Leader</h3>
+<h3 align="center">Full Stack Developer </h3>
 
 <p align="center">
   <a href="mailto:anushkaakshirsagar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -44,7 +44,7 @@
 💻 *FOCUS AREAS*
 
 - *MERN FULL STACK DEVELOPMENT* - Frontend and backend using React, MongoDB, Express.js, Node.js with Postman for API calling 
-- *Java FULL STACK DEVELOPMENT* - Frontend and backend using React and Spring Boot integrating aws services such as S3 for cloud storage
+- *JAVA FULL STACK DEVELOPMENT* - Frontend and backend using React and Spring Boot integrating aws services such as S3 for cloud storage
 - *PROBLEM SOLVING AND PROGRAMMING* - Solving DSA problems in Java
 - *MySQL* - Creating databases and processing queries
 
