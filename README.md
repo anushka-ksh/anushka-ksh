@@ -21,7 +21,7 @@
 ---
 
 🛠 *Tech Stack & Skills*
-
+<h3>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white&style=flat-square"/>
@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
 </p>
+</h3>
 
 ---
 
