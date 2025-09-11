@@ -54,7 +54,7 @@ Cartify - A Full Stack Sales Hub: A Point-of-Sale (POS) application using Spring
 🏆 Achievements & Activities
 Co-Lead of Content and Editorial at The Cyber Warriors Club.
 
-District Level Basketball Tournament Winner.
+District Level Basketball Tournament Winner
 
 Gold and Silver medalist in Aarambh & Advitya Basketball tournaments.
 
