@@ -24,7 +24,7 @@
 🛠 *Tech Stack & Skills*
 
 <p align="left">
-  <b>Languages:</b><br/>
+  <b>Tech Stack:</b><br/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
@@ -74,7 +74,8 @@
 📫 *Get in Touch*
 
 - 📧 anushkaakshirsagar@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/anushka-kshirsagar)    
+- [LinkedIn](https://www.linkedin.com/in/anushka-kshirsagar)
+- [Email](anushkaakshirsagar@gmail.com)
 
 ---
 
