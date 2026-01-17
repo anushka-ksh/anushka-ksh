@@ -6,49 +6,70 @@
   <a href="https://www.linkedin.com/in/anushka-kshirsagar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/anushkaaa_ksh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.geeksforgeeks.org/user/anushkaakspv27/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8F2F?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-  <p align="center">
+  <a href="https://github.com/anushkakshirsagar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 🌟 *About Me*
 
-- 🎓 B.Tech Computer Science Engineering @ VIT Bhopal
-- 💻 Passionate Full Stack Developer skilled in React, Spring Boot, NodeJS, and modern web technologies
-- 💡 Enjoys solving complex problems and applying analytical skills to create thoughtful, user-focused solutions.
-- 🗣 Fluent in English, Hindi, and Marathi
+- 🎓 **Final Year B.Tech CSE Student** @ Vellore Institute of Technology (2022-2026) | CGPA: 8.58
+- 💻 **Full Stack Developer** with strong expertise in the **Spring Boot** ecosystem and **React**.
+- ☁️ Experienced in deploying scalable applications using **AWS** and **Docker**.
+- 🏆 **Co-Lead** (Content & Editorial) at The Cyber Warriors Club.
+- 🗣 Fluent in English, Hindi, and Marathi.
 
 ---
 
 🛠 *Tech Stack & Skills*
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
+  
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square"/>
+
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white&style=flat-square"/>
 </p>
 
 ---
 
+💼 *Work Experience*
 
-💻 *FOCUS AREAS*
+**Web Development Intern | Quamin Tech Solutions LLP** *Sep 2024 - Mar 2025*
+- [cite_start]Architected and scaled backend services using **Spring Boot** and **Java** to support high-performance workflows. [cite: 29]
+- [cite_start]Designed an interactive, data-driven dashboard using **React**, improving user engagement. [cite: 30]
+- [cite_start]Optimized RESTful APIs to significantly reduce latency and enhance system scalability. [cite: 31]
 
-- *MERN FULL STACK DEVELOPMENT* - Frontend and backend using React, MongoDB, Express.js, Node.js with Postman for API calling 
-- *JAVA FULL STACK DEVELOPMENT* - Frontend and backend using React and Spring Boot integrating aws services such as S3 for cloud storage
-- *PROBLEM SOLVING AND PROGRAMMING* - Solving DSA problems in Java
-- *MySQL* - Creating databases and processing queries
+---
 
-  
+🚀 *Featured Projects*
+
+[cite_start]**Sitemate - Full-Stack Website Monitoring System** *Oct 2025 - Nov 2025* - Built a secure dashboard using **Spring Boot** and **Spring Security** (BCrypt) for user management. [cite: 15]
+- [cite_start]Implemented **24/7 automated monitoring** via background services and exposed historical data via REST APIs. [cite: 16]
+- [cite_start]Designed a dynamic UI with **Thymeleaf** and **Chart.js** to render live performance graphs. [cite: 17]
+
+[cite_start]**Cartify - Full Stack Sales Hub Application** *Aug 2025 - Oct 2025* - Architected a Point-of-Sale (POS) system using **Spring Boot** and **React** with **JWT** authentication. [cite: 21]
+- [cite_start]Integrated **Razorpay API** for secure UPI payments and built CRUD functionalities for inventory management. [cite: 22]
+- [cite_start]Created a real-time analytics dashboard and automated printable receipt generation. [cite: 23]
+
 ---
 
 📫 *Get in Touch*
@@ -59,7 +80,3 @@
 ---
 
 ✨ “Code, collaborate, and create impactful web experiences!”
-
-<!--
-*anushkakshirsagar/anushkakshirsagar* is a special repository for the profile README.
--->
