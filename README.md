@@ -68,12 +68,12 @@
 <h2 align="center">📊 Coding Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/anushkakshirsagar">
+  <a href="https://github.com/anushka-ksh">
     <img src="https://github-readme-stats.vercel.app/api?username=anushkakshirsagar&show_icons=true&theme=radical&hide_border=true" alt="Anushka's GitHub Stats" />
   </a>
   <br/>
   
-  <a href="https://github.com/anushkakshirsagar">
+  <a href="https://github.com/anushka-ksh">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkakshirsagar&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
@@ -83,7 +83,7 @@
     <img src="https://leetcode-stats.vercel.app/api?username=anushkaaa_ksh&theme=Dark" alt="LeetCode Stats" />
   </a>
   
-  <a href="https://www.geeksforgeeks.org/user/anushkaakspv27/">
+  <a href="https://www.geeksforgeeks.org/profile/anushkaakspv27/">
     <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=anushkaakspv27" alt="GeeksforGeeks Stats" />
   </a>
 </p>
