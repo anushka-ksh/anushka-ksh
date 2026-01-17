@@ -24,7 +24,6 @@
 🛠 *Tech Stack & Skills*
 
 <p align="left">
-  
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
@@ -68,12 +67,12 @@
 <h2 align="center">📊 Coding Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/anushka-ksh">
+  <a href="https://github.com/anushkakshirsagar">
     <img src="https://github-readme-stats.vercel.app/api?username=anushkakshirsagar&show_icons=true&theme=radical&hide_border=true" alt="Anushka's GitHub Stats" />
   </a>
   <br/>
   
-  <a href="https://github.com/anushka-ksh">
+  <a href="https://github.com/anushkakshirsagar">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkakshirsagar&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
@@ -83,7 +82,7 @@
     <img src="https://leetcode-stats.vercel.app/api?username=anushkaaa_ksh&theme=Dark" alt="LeetCode Stats" />
   </a>
   
-  <a href="https://www.geeksforgeeks.org/profile/anushkaakspv27/">
+  <a href="https://www.geeksforgeeks.org/user/anushkaakspv27/">
     <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=anushkaakspv27" alt="GeeksforGeeks Stats" />
   </a>
 </p>
@@ -92,6 +91,10 @@
   <a href="https://codolio.com/profile/YOUR_CODOLIO_USERNAME">
     <img src="https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge&logo=codolio" alt="Codolio Profile"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/anushkakshirsagar/anushkakshirsagar/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ✨ “Code, collaborate, and create impactful web experiences!”
