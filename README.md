@@ -24,7 +24,7 @@
 🛠 *Tech Stack & Skills*
 
 <p align="left">
-  <br/>
+  
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
@@ -59,23 +59,10 @@
 
 ---
 
-🚀 *Featured Projects*
-
-**Sitemate - Full-Stack Website Monitoring System** *Oct 2025 - Nov 2025* - Built a secure dashboard using **Spring Boot** and **Spring Security** (BCrypt) for user management.
-- Implemented **24/7 automated monitoring** via background services and exposed historical data via REST APIs.
-- Designed a dynamic UI with **Thymeleaf** and **Chart.js** to render live performance graphs.
-
-**Cartify - Full Stack Sales Hub Application** *Aug 2025 - Oct 2025* - Architected a Point-of-Sale (POS) system using **Spring Boot** and **React** with **JWT** authentication.
-- Integrated **Razorpay API** for secure UPI payments and built CRUD functionalities for inventory management.
-- Created a real-time analytics dashboard and automated printable receipt generation.
-
----
-
 📫 *Get in Touch*
 
 - 📧 anushkaakshirsagar@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/anushka-kshirsagar)
-- [Email](anushkaakshirsagar@gmail.com)
 
 ---
 
