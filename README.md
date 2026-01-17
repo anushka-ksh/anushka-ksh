@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Anushka Kshirsagar</h1>
-<h3 align="center">Full Stack Developer </h3>
+<h3 align="center">Java Developer </h3>
 
 <p align="center">
   <a href="mailto:anushkaakshirsagar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -14,8 +14,8 @@
 🌟 *About Me*
 
 - 🎓 **Final Year B.Tech CSE Student** @ Vellore Institute of Technology (2022-2026) | CGPA: 8.58
-- 💻 **Full Stack Developer** with strong expertise in the **Spring Boot** ecosystem and **React**.
-- ☁️ Experienced in deploying scalable applications using **AWS** and **Docker**.
+- 💻 **Java Developer** with strong expertise in the **Spring Boot** ecosystem and **React**.
+- ☁️ Experienced in deploying scalable applications using **AWS**.
 - 🏆 **Co-Lead** (Content & Editorial) at The Cyber Warriors Club.
 - 🗣 Fluent in English, Hindi, and Marathi.
 
@@ -54,21 +54,21 @@
 💼 *Work Experience*
 
 **Web Development Intern | Quamin Tech Solutions LLP** *Sep 2024 - Mar 2025*
-- [cite_start]Architected and scaled backend services using **Spring Boot** and **Java** to support high-performance workflows. [cite: 29]
-- [cite_start]Designed an interactive, data-driven dashboard using **React**, improving user engagement. [cite: 30]
-- [cite_start]Optimized RESTful APIs to significantly reduce latency and enhance system scalability. [cite: 31]
+- Architected and scaled backend services using **Spring Boot** and **Java** to support high-performance workflows.
+- Designed an interactive, data-driven dashboard using **React**, improving user engagement. 
+- Optimized RESTful APIs to significantly reduce latency and enhance system scalability. 
 
 ---
 
 🚀 *Featured Projects*
 
-[cite_start]**Sitemate - Full-Stack Website Monitoring System** *Oct 2025 - Nov 2025* - Built a secure dashboard using **Spring Boot** and **Spring Security** (BCrypt) for user management. [cite: 15]
-- [cite_start]Implemented **24/7 automated monitoring** via background services and exposed historical data via REST APIs. [cite: 16]
-- [cite_start]Designed a dynamic UI with **Thymeleaf** and **Chart.js** to render live performance graphs. [cite: 17]
+[cite_start]**Sitemate - Java Full-Stack Website Monitoring System** *Oct 2025 - Nov 2025* - Built a secure dashboard using **Spring Boot** and **Spring Security** (BCrypt) for user management. 
+- Implemented **24/7 automated monitoring** via background services and exposed historical data via REST APIs.
+- Designed a dynamic UI with **Thymeleaf** and **Chart.js** to render live performance graphs.
 
-[cite_start]**Cartify - Full Stack Sales Hub Application** *Aug 2025 - Oct 2025* - Architected a Point-of-Sale (POS) system using **Spring Boot** and **React** with **JWT** authentication. [cite: 21]
-- [cite_start]Integrated **Razorpay API** for secure UPI payments and built CRUD functionalities for inventory management. [cite: 22]
-- [cite_start]Created a real-time analytics dashboard and automated printable receipt generation. [cite: 23]
+[cite_start]**Cartify - Java Full Stack Sales Hub Application** *Aug 2025 - Oct 2025* - Architected a Point-of-Sale (POS) system using **Spring Boot** and **React** with **JWT** authentication. 
+- Integrated **Razorpay API** for secure UPI payments and built CRUD functionalities for inventory management.
+- Created a real-time analytics dashboard and automated printable receipt generation.
 
 ---
 
