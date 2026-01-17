@@ -67,13 +67,13 @@
 <h2 align="center">📊 Coding Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/anushkakshirsagar">
-    <img src="https://github-readme-stats.vercel.app/api?username=anushkakshirsagar&show_icons=true&theme=radical&hide_border=true" alt="Anushka's GitHub Stats" />
+  <a href="https://github.com/anushka-ksh">
+    <img src="https://github-readme-stats.vercel.app/api?username=anushka-ksh&show_icons=true&theme=radical&hide_border=true" alt="Anushka's GitHub Stats" />
   </a>
   <br/>
   
-  <a href="https://github.com/anushkakshirsagar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkakshirsagar&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/anushka-ksh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka-ksh&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -88,13 +88,7 @@
 </p>
 
 <p align="center">
-  <a href="https://codolio.com/profile/YOUR_CODOLIO_USERNAME">
-    <img src="https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge&logo=codolio" alt="Codolio Profile"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/anushkakshirsagar/anushkakshirsagar/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/anushka-ksh/anushka-ksh/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ✨ “Code, collaborate, and create impactful web experiences!”
