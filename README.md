@@ -13,7 +13,7 @@
 
 🌟 *About Me*
 
-- 🎓 **Final Year B.Tech CSE Student** @ Vellore Institute of Technology (2022-2026) | CGPA: 8.58
+- 🎓 **Final Year B.Tech CSE Student** @ Vellore Institute of Technology (2022-2026) | CGPA: 8.61
 - 💻 **Java Full Stack Developer** with strong expertise in the **Spring Boot** ecosystem and **React**.
 - ☁️ Experienced in deploying scalable applications using **AWS**.
 - 🏆 **Co-Lead** (Content & Editorial) at The Cyber Warriors Club.
