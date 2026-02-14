@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Anushka Kshirsagar</h1>
-<h3 align="center">Java Developer </h3>
+<h3 align="center">Java Developer | AWS Certified Cloud Practitioner</h3>
 
 <p align="center">
   <a href="mailto:anushkaakshirsagar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -46,6 +46,16 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge"/>
 </p>
 ---
+*Certifications*
+
+<p align="left">
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner">
+<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
+</a>
+<a href="https://education.oracle.com/oracle-certified-foundations-associate-java/pnp_95">
+<img src="https://img.shields.io/badge/Oracle%20Certified%20Java%20Foundations%20Associate-007396?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified Java Foundations Associate"/>
+</a>
+</p>
 
 💼 *Work Experience*
 
