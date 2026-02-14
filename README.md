@@ -45,8 +45,9 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge"/>
 </p>
----
-*Certifications*
+
+
+💻*Certifications*
 
 <p align="left">
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner">
